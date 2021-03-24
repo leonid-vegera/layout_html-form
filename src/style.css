@@ -1,0 +1,12 @@
+.fieldset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.form-field {
+  display: block;
+}
+
+.box {
+  margin-bottom: 10px;
+}
